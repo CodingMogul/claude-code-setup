@@ -46,8 +46,8 @@ This project provides a powerful configuration framework for Claude Code that tr
 pip install uv
 
 # 2. Clone this configuration
-git clone https://github.com/codingmogul/claude-setup.git
-cd claude-setup
+git clone https://github.com/CodingMogul/claude-code-setup.git
+cd claude-code-setup
 
 # 3. Apply configuration to your project
 /setup
@@ -476,5 +476,5 @@ Or open an issue for project-specific questions.
 
 ---
 
-**Repository**: [github.com/codingmogul/claude-setup](https://github.com/codingmogul/claude-setup)  
+**Repository**: [github.com/CodingMogul/claude-code-setup](https://github.com/CodingMogul/claude-code-setup)  
 **Original Project**: [github.com/AizenvoltPrime/claude-setup](https://github.com/AizenvoltPrime/claude-setup)
