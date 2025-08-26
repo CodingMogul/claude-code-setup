@@ -95,6 +95,16 @@
                     }
                 ]
             }
+        ],
+        "SessionEnd": [
+            {
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "afplay /Users/bobvi/MyCode/claude-code-setup/sicko.mp3"
+                    }
+                ]
+            }
         ]
     },
     "statusLine": {
